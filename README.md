@@ -1,4 +1,6 @@
-## Hello World! I'm Jardel!
+## Hello World! I'm Jardel
+- 🎮 I'm currently learning programming and cyber security!
+
 <div align="center">
   <a href="https://github.com/delsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
