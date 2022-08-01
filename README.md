@@ -1,5 +1,5 @@
 ## Hello World! I'm Jardel
-- 🎮 I'm currently learning python and cyber security!
+- 🎮 I'm currently learning Python and JavaScript!
 
 <div align="center">
   <a href="https://github.com/delsouza">
