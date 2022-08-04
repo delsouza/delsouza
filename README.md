@@ -1,5 +1,5 @@
 ## Hello World! I'm Jardel
-- 🎮 I'm currently learning HTML, CSS e JavaScript!
+- 🎮 I'm currently learning HTML, CSS and JavaScript!
 
 <div align="center">
   <a href="https://github.com/delsouza">
