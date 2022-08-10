@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Jardel /i></a> 😃️</h1>
+<h1 align="center">Hello World! I'm Jardel</a> 😃️</h1>
 
 🎮 I'm currently learning HTML, CSS and JavaScript!
 
