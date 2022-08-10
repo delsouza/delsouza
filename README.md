@@ -33,7 +33,7 @@
   
 <div align="center">
   
-  <p>Made with :heart: and JavaScript.</p>
+  <p>Made with :heart:.</p>
   
 </div>
   
