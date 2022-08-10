@@ -1,5 +1,6 @@
-## Hello World! I'm Jardel
-- 🎮 I'm currently learning HTML, CSS and JavaScript!
+<h1 align="center">Hello World! I'm Jardel /i></a> 😃️</h1>
+
+🎮 I'm currently learning HTML, CSS and JavaScript!
 
 <div align="center">
   <a href="https://github.com/delsouza">
