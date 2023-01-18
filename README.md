@@ -24,6 +24,8 @@
 <div> 
   <a href="mailto:contato.jardelsouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
   </a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/linkedin-6495ED?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+  </a>
     
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=delsouza&bg_color=0d1117&color=CD5C5C&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
