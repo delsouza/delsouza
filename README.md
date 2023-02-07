@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD5C5C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Jardel+Souza+Alves;I'm+19+years+old;I'm+from+Brasil,+BA;I'm+currently+studying+HTML,+CSS+and+JavaScript!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD5C5C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Jardel+Souza+Alves;I'm+19+years+old;I'm+from+Brasil,+BA;I'm+currently+studying+React+JS!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=delsouza&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jardel Souza GitHub Stats" /> 
