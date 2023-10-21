@@ -25,6 +25,7 @@
 </div>
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=delsouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsouza&layout=compact&langs_count=16&theme=tokyonight"/>
 </p>
   <div align="center">
   <br>
