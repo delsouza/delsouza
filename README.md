@@ -27,10 +27,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=delsouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsouza&layout=compact&langs_count=16&theme=tokyonight"/>
 </p>
-  <div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{delsouza}/count.svg" /></p> 
-<br></div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
